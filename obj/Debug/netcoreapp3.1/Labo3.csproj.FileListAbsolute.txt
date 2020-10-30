@@ -1,0 +1,13 @@
+C:\Users\salma\OneDrive\Escritorio\ArquiSoft\Labo3\Labo3\obj\Debug\netcoreapp3.1\Labo3.csprojAssemblyReference.cache
+C:\Users\salma\OneDrive\Escritorio\ArquiSoft\Labo3\Labo3\obj\Debug\netcoreapp3.1\Labo3.AssemblyInfoInputs.cache
+C:\Users\salma\OneDrive\Escritorio\ArquiSoft\Labo3\Labo3\obj\Debug\netcoreapp3.1\Labo3.AssemblyInfo.cs
+C:\Users\salma\OneDrive\Escritorio\ArquiSoft\Labo3\Labo3\obj\Debug\netcoreapp3.1\Labo3.csproj.CoreCompileInputs.cache
+C:\Users\salma\OneDrive\Escritorio\ArquiSoft\Labo3\Labo3\bin\Debug\netcoreapp3.1\Labo3.exe
+C:\Users\salma\OneDrive\Escritorio\ArquiSoft\Labo3\Labo3\bin\Debug\netcoreapp3.1\Labo3.deps.json
+C:\Users\salma\OneDrive\Escritorio\ArquiSoft\Labo3\Labo3\bin\Debug\netcoreapp3.1\Labo3.runtimeconfig.json
+C:\Users\salma\OneDrive\Escritorio\ArquiSoft\Labo3\Labo3\bin\Debug\netcoreapp3.1\Labo3.runtimeconfig.dev.json
+C:\Users\salma\OneDrive\Escritorio\ArquiSoft\Labo3\Labo3\bin\Debug\netcoreapp3.1\Labo3.dll
+C:\Users\salma\OneDrive\Escritorio\ArquiSoft\Labo3\Labo3\bin\Debug\netcoreapp3.1\Labo3.pdb
+C:\Users\salma\OneDrive\Escritorio\ArquiSoft\Labo3\Labo3\obj\Debug\netcoreapp3.1\Labo3.dll
+C:\Users\salma\OneDrive\Escritorio\ArquiSoft\Labo3\Labo3\obj\Debug\netcoreapp3.1\Labo3.pdb
+C:\Users\salma\OneDrive\Escritorio\ArquiSoft\Labo3\Labo3\obj\Debug\netcoreapp3.1\Labo3.genruntimeconfig.cache
